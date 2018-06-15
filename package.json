@@ -1,6 +1,6 @@
 {
   "name": "is-ua-bot",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "useragent parsing for bot identification",
   "main": "index.js",
   "scripts": {
