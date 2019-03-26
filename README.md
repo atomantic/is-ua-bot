@@ -37,7 +37,7 @@ npm test
 
 ## Author
 
-![[follow](https://img.shields.io/twitter/follow/antic.svg?style=social&label=Follow)](https://twitter.com/antic)
+[![follow](https://img.shields.io/twitter/follow/antic.svg?style=social&label=Follow)](https://twitter.com/antic)
 
 worthy of a tip? 
 ⚡ Lightning Bitcoin Tips Accepted https://tippin.me/@antic
